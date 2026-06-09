@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Multi Design"
+  short_description: "Guide the AI to formulate the front-end development plan"
+  default_prompt: "Use $frontend-multi-design to guide the AI through the multi-sub-agent review mode and formulate the front-end development plan."
